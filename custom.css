@@ -1,0 +1,51 @@
+
+section {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.r-fit-text {
+    font-size: 34px !important;
+    text-align: center !important; 
+}
+
+
+.slides {
+    margin: none !important;
+    width: 1450px;
+}
+
+.reveal-viewport {
+    --slide-width: 1920px !important;
+    --slide-height: 1080px !important;
+}
+.heading {
+font-size: 48 !important;
+text-align: center !important;
+font-family: "Work Sans";
+}
+.btn{
+      background: transparent;
+    border: 2px solid #a020f0; /* bright purple */
+    color: #a020f0;
+    padding: 10px 22px;
+    font-size: 0.6em;
+    border-radius: 30px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    
+  }
+  .btn:hover {
+    background-color: #a020f0;
+    color: black;
+    transform: scale(1.05);
+  }
+
+  .quote {
+    font-size: 34px !important;
+    text-align: center !important;
+    font-style: italic;
+  }
